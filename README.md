@@ -1,2 +1,1 @@
-# bpo
-This project is about computer club "GameBox"
+# Bpo_site
